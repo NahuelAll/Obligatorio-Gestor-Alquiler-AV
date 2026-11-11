@@ -1,0 +1,23 @@
+
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Backups de SQL Server
+*.bak
+*.trn
+
+# Configuración local y secretos
+appsettings.Local.json
+secrets.json
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
