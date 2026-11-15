@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="AV.Entities/AV.Entities.csproj" />
+  <Project Path="AV.LogicaNegocio/AV.LogicaNegocio.csproj" Id="a0d96108-39d0-48b6-8b17-5b77ed0315f4" />
+  <Project Path="AV.Persistencia/AV.Persistencia.csproj" Id="0c6b14d2-3b8a-446d-8411-3a5a5a1bea84" />
+  <Project Path="AVManager.Desktop/AVManager.Desktop.csproj" Id="0b247a98-a225-4464-9f91-72063241bf0b" />
 </Solution>
