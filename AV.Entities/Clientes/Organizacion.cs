@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AV.Entities
+namespace AV.Entities.Clientes
 {
     public class Organizacion
     {

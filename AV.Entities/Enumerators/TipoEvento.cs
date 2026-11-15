@@ -6,7 +6,7 @@ namespace AV.Entities.Enumerators
 {
     public enum TipoEvento
     {
-        Casamiento,
+        Casamiento = 1,
         Congresos,
         Fiesta,
         Espectaculo,

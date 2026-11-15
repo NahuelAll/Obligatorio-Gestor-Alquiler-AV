@@ -4,10 +4,10 @@ using System.Text;
 
 namespace AV.Entities
 {
-    public class Cliente
+    public class TipoEquipamiento
     {
         public int Id { get; set; }
-        public required string Email { get; set; }
-        public required string Telefono { get; set; }
+        public required string Nombre { get; set; }
+        public required string Categoria { get; set; }
     }
 }

@@ -6,7 +6,7 @@ namespace AV.Entities.Enumerators
 {
     public enum EstadoContratacion
     {
-        EnProgreso,
+        EnProgreso = 1,
         Cancelada,
         Completada
     }

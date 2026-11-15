@@ -6,7 +6,7 @@ namespace AV.Entities.Enumerators
 {
     public enum MedioPago
     {
-        Efectivo,
+        Efectivo = 1,
         DebitoCredito
     }
 }

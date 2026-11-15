@@ -6,7 +6,7 @@ namespace AV.Entities.Enumerators
 {
     public enum EstadoSolicitud
     {
-        Rechazada,
+        Rechazada = 1,
         Aceptada,
         EnRevision
     }
